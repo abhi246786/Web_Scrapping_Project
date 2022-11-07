@@ -19,7 +19,7 @@
 </ul>
 <h3>Install required dependencies :</h3>
 <ul>
-	<li>clone or download it from <a href="https://github.com/rajat4665/web-scraping-with-python" target="_blank" rel="noopener">here</a></li>
+	
 	<li>install requirements.txt file</li>
 	<li><code>pip install -r requirements.txt</code></li>
 
